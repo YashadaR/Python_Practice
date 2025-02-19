@@ -6,4 +6,4 @@ class Person:
 
 P1 = Person("Yashada", "India", "02/03/2000")
 
-print(P1.date_of_birth)
+print(P1.name, P1.country, P1.date_of_birth)
